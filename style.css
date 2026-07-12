@@ -333,6 +333,7 @@
 
   /* reviews */
   .reviews{background:var(--blue-pale);}
+  .review-stars{display:flex; align-items:center; gap:3px;}
   .review-summary{
     display:flex; align-items:center; justify-content:center; gap:24px;
     flex-wrap:wrap;
